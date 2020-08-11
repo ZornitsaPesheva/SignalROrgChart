@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\working\\.netCore\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {}
+    "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {}
   },
   "projects": {
-    "D:\\working\\.netCore\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {
+    "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\working\\.netCore\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
+        "projectUniqueName": "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
         "projectName": "SignalROrgChart",
-        "projectPath": "D:\\working\\.netCore\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
+        "projectPath": "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
         "packagesPath": "C:\\Users\\zorni\\.nuget\\packages\\",
-        "outputPath": "D:\\working\\.netCore\\SignalROrgChart\\SignalROrgChart\\obj\\",
+        "outputPath": "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zorni\\AppData\\Roaming\\NuGet\\NuGet.Config",

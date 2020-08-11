@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1u4RFJLdyEBS8j8Z30QmbIPQlWGO+X198RfYoFU9Q8jLkQwcSEsWoDukRkjmrHionZZID7j9uDW2/mZKJ1MEsw==",
+  "dgSpecHash": "maCTtxsx0gFtsQuziWj1ASU1CiX/9NXgvrag6FA6HrV9MndqI0JhidLZeeD5ib4NUEsDfVWApySYbJIWZw6wGA==",
   "success": true,
-  "projectFilePath": "D:\\working\\.netCore\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
+  "projectFilePath": "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
