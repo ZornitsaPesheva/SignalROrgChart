@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {}
+    "C:\\Working\\.net\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {}
   },
   "projects": {
-    "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {
+    "C:\\Working\\.net\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
+        "projectUniqueName": "C:\\Working\\.net\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
         "projectName": "SignalROrgChart",
-        "projectPath": "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
-        "packagesPath": "C:\\Users\\zorni\\.nuget\\packages\\",
-        "outputPath": "D:\\working\\.netCore\\SignalROrgChartRepo\\SignalROrgChart\\SignalROrgChart\\obj\\",
+        "projectPath": "C:\\Working\\.net\\SignalROrgChart\\SignalROrgChart\\SignalROrgChart.csproj",
+        "packagesPath": "C:\\Users\\Zornitsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Working\\.net\\SignalROrgChart\\SignalROrgChart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zorni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zornitsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -36,14 +37,16 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

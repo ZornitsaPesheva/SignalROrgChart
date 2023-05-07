@@ -27,8 +27,8 @@ var nodes = [
     { id: "3", pid: "1", name: "Peter Stevens" }
 ];
 
-chart.on('add', function (sender, node) {
-    connection.invoke("SendData", node.id, node.pid).catch(function (err) {
+chart.onAddNode((args) => {
+    connection.invoke("SendData", args.data.id, args.data.pid).catch(function (err) {
             return console.error(err.toString());
     });
     return false;
